@@ -1,5 +1,5 @@
 # hello-world
-learning to create a new repository 
+Learning to create a new Repository 
 
 Greetings to all.  This is the hello-world exercise found here,
 https://guides.github.com/activities/hello-world/.  
