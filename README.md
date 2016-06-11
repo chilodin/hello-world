@@ -4,8 +4,9 @@ learning to create a new repository
 Greetings to all.  This is the hello-world exercise found here,
 https://guides.github.com/activities/hello-world/.  
 
-In this exercise I will do the following:
--Commit changed
+Upon completion of this exercise,  I will know to do the following:
+-Create a new Repository
+-Commit a change
 -Open a Pull Request
 -Merge a Pull Request
 - and celebrate the completion.  
